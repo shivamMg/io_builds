@@ -1,0 +1,4 @@
+# loose requirements: PyYAML, requests, rapyuta_io sdk
+PyYAML
+requests
+https://storage.googleapis.com/rio-sdk-python/rapyuta_io-0.17.0-py2-none-any.whl
